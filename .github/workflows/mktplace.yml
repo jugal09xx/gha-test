@@ -3,7 +3,7 @@ on: [push]
 jobs:
   GHA:
     runs-on: ubuntu-latest
-    name: BoC 2023 Test
+    name: BoC 2023 Test run 1
     steps:
         - run: |
             id
